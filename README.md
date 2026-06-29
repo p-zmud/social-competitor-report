@@ -6,7 +6,7 @@ Point it at a set of brand accounts and it produces a weekly report: who posted 
 each brand's best post, a full table of every post in the period, and week-over-week
 follower growth — viewable in a clean web dashboard and exportable to Markdown / HTML.
 
-The demo ships pre-configured to track four Polish QSR brands — **Pizza Hut,
+The demo ships pre-configured to track four Polish fast-food brands — **Pizza Hut,
 Max Premium Burgers, KFC, Burger King** — but any brands work: change them in the
 dashboard or in one config file, no code edits.
 
@@ -84,7 +84,7 @@ buttons to export it as HTML or Markdown.
 | **OpenRouter** | the AI that writes each brand's summary | <https://openrouter.ai/settings/keys> | `sk-or-v1-…` |
 | **Apify** | scrapes Instagram / TikTok / Facebook | <https://console.apify.com/account/integrations> | `apify_api_…` |
 
-> **Cost:** Apify bills per scrape — roughly **$0.4–0.6 for one full weekly report**
+> **Cost:** Apify bills per scrape — roughly **$0.4–0.8 for one full weekly report**
 > (4 brands × 3 platforms). The AI summaries cost a fraction of a cent. Both services
 > offer free starting credit, so you can try it for free.
 
