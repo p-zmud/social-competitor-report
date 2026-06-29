@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Node / frontend build
+node_modules/
+dist/
+
+# Secrets & local state — never committed
+.env
+data/
+
+# Generated reports & logs (the one committed demo report is force-added)
+reports/
+logs/
+
+# Dashboard runtime state
+dashboard/*.pid
+
+# OS / editor
+.DS_Store

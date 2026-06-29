@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-body: 'Inter', system-ui, sans-serif;
+  --color-accent: #e11d48;
+  --color-accent-hover: #be123c;
+  --color-surface: #ffffff;
+  --color-surface-raised: #f8f9fa;
+  --color-surface-card: #f1f3f4;
+  --color-border: #e5e7eb;
+  --color-border-subtle: #f3f4f6;
+  --color-text-primary: #111827;
+  --color-text-secondary: #4b5563;
+  --color-text-muted: #9ca3af;
+  --color-positive: #059669;
+  --color-negative: #dc2626;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--color-surface);
+  color: var(--color-text-primary);
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--color-accent); }
+a:hover { text-decoration: underline; }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #dadce0; border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: #bdc1c6; }
+
+/* Focus */
+*:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+/* Print-friendly */
+@media print {
+  .no-print { display: none !important; }
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Max Premium Burgers",
+  "scraped_at": "2026-06-18T16:21:17",
+  "ig_followers": 14147,
+  "fb_followers": 370000,
+  "tt_followers": 20600,
+  "ig_followers_prev": 13897,
+  "fb_followers_prev": 368526,
+  "tt_followers_prev": 20039,
+  "ig_posts": [
+    {
+      "id": "3918466844315197561",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DZhMNV_jaB5/",
+      "caption": "Tej wiosny trendują odcienie avocado, jalapeño i piklowanej cebuli. 🥑🌶️",
+      "published_at": "2026-06-13T08:01:10.000Z",
+      "likes": 18,
+      "comments": 0,
+      "shares": 0,
+      "reach": 0,
+      "views": null,
+      "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t39.30808-6/708855301_1427427666084119_580615187353353591_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGIOCL3HEodpPYtiQOlCPaSISG8BfZoThw4BQRc4u2bVnOH3VkvbiuqBNksov0k1q4&_nc_ohc=FSCLhTBFW9EQ7kNvwGb-afJ&_nc_gid=7mUvyu_XGOilEaEuh9tHkw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=MzkxODQ2Njg0NDMxNTE5NzU2MQ%3D%3D.3-ccb7-5&oh=00_Af_2mh331HkGTlkPDf7usW3t6fu0g9vgEGebFHKi4tLTTg&oe=6A39BD44&_nc_sid=8b3546"
+    }
+  ],
+  "fb_posts": [
+    {
+      "id": "1443318324495053",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/maxburgerspolska/posts/pfbid02ueRj9dNr6gpP472jWoucc8fDLTu5PpgJdVk6QLT7ip59GhDEAjipxK8kbJyvoaQul",
+      "caption": "Tej wiosny trendują odcienie avocado, jalapeño i piklowanej cebuli. 🥑🌶️",
+      "published_at": "2026-06-13T08:00:21.000Z",
+      "likes": 4,
+      "comments": 0,
+      "shares": 1,
+      "reach": 0,
+      "views": null,
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/709188650_1427430759417143_351473758066829334_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=oePUBmTa4J0Q7kNvwGJVUlm&_nc_oc=Adq5c9fiTuED203NkxUabueUvC_Xx2X9Ke0spRsPUmWszX0Jr3EQr22SsnHBEwZLAh4&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=v2rQ83U8c9iEfz_MqYkJ8A&_nc_ss=72289&oh=00_Af_-VkbKXuqP5JHiWM1MOdAFKQ92Aj1bl05c6PukNRRxVg&oe=6A39EC91"
+    }
+  ],
+  "tt_posts": [
+    {
+      "id": "7649679393400327446",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@maxpremiumburgers/video/7649679393400327446",
+      "caption": "Próbowaliście już naszych Iced Lattes? 👀🧊☕️",
+      "published_at": "2026-06-10T08:23:04.000Z",
+      "likes": 265,
+      "comments": 4,
+      "shares": 6,
+      "reach": 0,
+      "views": 243200,
+      "image_url": "images/tiktok_be32268af42dd653.jpg"
+    }
+  ]
+}

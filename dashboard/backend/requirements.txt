@@ -1,0 +1,5 @@
+# Web dashboard backend — installed on top of the root requirements.txt.
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+websockets>=14.0
+httpx>=0.27.0

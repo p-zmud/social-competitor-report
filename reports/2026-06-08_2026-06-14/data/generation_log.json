@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Apify (batch)",
+    "status": "ok",
+    "duration_s": 80.88507920899428,
+    "items_count": 4,
+    "error": null
+  },
+  {
+    "name": "Summary: Pizza Hut Polska",
+    "status": "ok",
+    "duration_s": 3.241,
+    "items_count": 0,
+    "error": null
+  },
+  {
+    "name": "Summary: Max Premium Burgers",
+    "status": "ok",
+    "duration_s": 2.806,
+    "items_count": 0,
+    "error": null
+  },
+  {
+    "name": "Summary: KFC Polska",
+    "status": "ok",
+    "duration_s": 2.133,
+    "items_count": 0,
+    "error": null
+  },
+  {
+    "name": "Summary: Burger King Polska",
+    "status": "ok",
+    "duration_s": 2.457,
+    "items_count": 0,
+    "error": null
+  },
+  {
+    "name": "Downloading images",
+    "status": "ok",
+    "duration_s": 1.222326667048037,
+    "items_count": 4,
+    "error": null
+  }
+]

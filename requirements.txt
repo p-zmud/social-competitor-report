@@ -1,0 +1,9 @@
+# Core pipeline (CLI) + test runner.
+# For the web dashboard, also install dashboard/backend/requirements.txt.
+openai>=1.0.0,<3.0.0
+apify-client>=1.8.0,<3.0.0
+requests>=2.31.0
+pyyaml>=6.0.1
+python-dotenv>=1.0.0
+pytest>=8.0.0
+pytest-mock>=3.12.0

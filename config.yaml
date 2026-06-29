@@ -1,0 +1,25 @@
+report_title: "Competitor Brands — Weekly Social Report"
+timezone: "Europe/Warsaw"
+
+# Monitored brand accounts (a competitive set). Add/remove brands here — no code changes.
+# Handles: facebook_page = the /<page> slug, instagram_handle = @username, tiktok_handle = @handle.
+competitors:
+  - name: "Pizza Hut Polska"
+    facebook_page: "pizzahutpolska"
+    instagram_handle: "pizzahutpolska"
+    tiktok_handle: "pizzahut_polska"
+  - name: "Max Premium Burgers"
+    facebook_page: "maxburgerspolska"
+    instagram_handle: "maxburgerspolska"
+    tiktok_handle: "maxpremiumburgers"
+  - name: "KFC Polska"
+    facebook_page: "kfcpolska"
+    instagram_handle: "kfc_polska"
+    tiktok_handle: "kfc_pl"
+  - name: "Burger King Polska"
+    facebook_page: "BurgerKingPolska"
+    instagram_handle: "burgerkingpolska"
+    tiktok_handle: "burgerking_pl"
+
+output_dir: "reports"
+data_dir: "data"
